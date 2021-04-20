@@ -1,0 +1,10 @@
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\bin\Debug\пересдача_GUI.exe.config
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\bin\Debug\пересдача_GUI.exe
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\bin\Debug\пересдача_GUI.pdb
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.csprojAssemblyReference.cache
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.Form1.resources
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.Properties.Resources.resources
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.csproj.GenerateResource.cache
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.csproj.CoreCompileInputs.cache
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.exe
+C:\Users\shalo\source\repos\пересдача_GUI\пересдача_GUI\obj\Debug\пересдача_GUI.pdb
